@@ -32,7 +32,8 @@
 This project not only explores the PISA 2012 dataset using Python and various libraries but also showcases the application of my programming and analysis skills to process and interpret complex datasets. Through Jupyter Notebook, I conducted a detailed analysis, emphasizing the role of study habits, parental influence, and access to resources on academic outcomes.
 
 ### Resources
-- [PISA 2012 Database] (https://www.oecd.org/pisa/data/pisa2012database-downloadabledata.htm)
-- [Annex A Volume III (PISA 2012 TECHNICAL BACKGROUND)] (https://www.oecd.org/pisa/keyfindings/PISA2012-Vol3-AnnexA.pdf)
-- [PISA Data Analysis Manual (SPSS, Second Edition)] (https://read.oecd-ilibrary.org/education/pisa-data-analysis-manual-spss-second-edition_9789264056275-en#page1)
-- [PISA 2012 Results Overview] (https://www.oecd.org/pisa/keyfindings/pisa-2012-results-overview.pdf)
+- [PISA 2012 Database](https://www.oecd.org/pisa/data/pisa2012database-downloadabledata.htm)
+- [Annex A Volume III (PISA 2012 TECHNICAL BACKGROUND)](https://www.oecd.org/pisa/keyfindings/PISA2012-Vol3-AnnexA.pdf)
+- [PISA Data Analysis Manual (SPSS, Second Edition)](https://read.oecd-ilibrary.org/education/pisa-data-analysis-manual-spss-second-edition_9789264056275-en#page1)
+- [PISA 2012 Results Overview](https://www.oecd.org/pisa/keyfindings/pisa-2012-results-overview.pdf)
+
